@@ -1,0 +1,501 @@
+﻿incident_id,date,suspect,offense_type,arrested,imprisoned,arkham_admission,property_damage_usd,injuries
+GCPD-0001,2022-01-18,Mr. Freeze,Assault,False,False,False,38000,5
+GCPD-0001,2022-01-18,Mr. Freeze,Property destruction,False,False,False,513000,1
+GCPD-0002,2022-01-23,Joker,Assault,False,False,False,42000,4
+GCPD-0002,2022-01-23,Joker,Kidnapping,False,False,False,31000,3
+GCPD-0002,2022-01-23,Joker,Robbery,False,False,False,15000,0
+GCPD-0002,2022-01-23,Harley Quinn,Property destruction,False,False,False,134000,2
+GCPD-0003,2022-01-30,Joker,Murder,False,False,False,2000,5
+GCPD-0004,2022-02-28,Catwoman,Robbery,False,False,False,18000,0
+GCPD-0005,2022-03-11,Harley Quinn,Property destruction,False,False,False,426000,3
+GCPD-0006,2022-03-14,Batman,Assault,False,False,False,1500,3
+GCPD-0007,2022-03-23,Riddler,Kidnapping,False,False,False,42000,1
+GCPD-0007,2022-03-23,Riddler,Cybercrime,False,False,False,44000,0
+GCPD-0008,2022-04-01,Catwoman,Robbery,False,False,False,3000,1
+GCPD-0008,2022-04-01,Catwoman,Robbery,False,False,False,37000,1
+GCPD-0009,2022-04-03,Two-Face,Kidnapping,False,False,False,60000,0
+GCPD-0010,2022-04-09,Penguin,Fraud,False,False,False,9000,0
+GCPD-0011,2022-04-14,Mr. Freeze,Robbery,False,False,False,65000,2
+GCPD-0011,2022-04-14,Mr. Freeze,Property destruction,False,False,False,628000,2
+GCPD-0012,2022-05-01,Two-Face,Murder,False,False,False,13000,3
+GCPD-0013,2022-05-08,Catwoman,Robbery,False,False,False,41000,1
+GCPD-0013,2022-05-08,Catwoman,Robbery,False,False,False,27000,1
+GCPD-0014,2022-05-20,Mr. Freeze,Robbery,False,False,False,9000,2
+GCPD-0015,2022-05-30,Penguin,Fraud,False,False,False,3000,0
+GCPD-0016,2022-05-31,Harley Quinn,Robbery,False,False,False,70000,1
+GCPD-0017,2022-06-05,Two-Face,Kidnapping,False,False,False,31000,0
+GCPD-0017,2022-06-05,Two-Face,Property destruction,False,False,False,845000,3
+GCPD-0017,2022-06-05,Two-Face,Murder,False,False,False,7000,2
+GCPD-0017,2022-06-05,Two-Face,Robbery,False,False,False,68000,2
+GCPD-0018,2022-06-18,Joker,Kidnapping,False,False,False,39000,0
+GCPD-0018,2022-06-18,Joker,Cybercrime,False,False,False,72000,0
+GCPD-0018,2022-06-18,Harley Quinn,Murder,False,False,False,10000,2
+GCPD-0019,2022-06-24,Joker,Robbery,False,False,False,43000,1
+GCPD-0019,2022-06-24,Joker,Assault,False,False,False,44000,3
+GCPD-0019,2022-06-24,Joker,Fraud,False,False,False,2000,0
+GCPD-0019,2022-06-24,Harley Quinn,Assault,False,False,False,25000,5
+GCPD-0020,2022-06-30,Joker,Property destruction,False,False,False,632000,2
+GCPD-0021,2022-07-04,Mr. Freeze,Property destruction,False,False,False,715000,3
+GCPD-0021,2022-07-04,Mr. Freeze,Robbery,False,False,False,39000,2
+GCPD-0022,2022-07-17,Joker,Robbery,False,False,False,94000,0
+GCPD-0022,2022-07-17,Joker,Kidnapping,False,False,False,64000,1
+GCPD-0022,2022-07-17,Joker,Property destruction,False,False,False,375000,4
+GCPD-0022,2022-07-17,Joker,Assault,False,False,False,9000,5
+GCPD-0022,2022-07-17,Harley Quinn,Robbery,False,False,False,79000,2
+GCPD-0023,2022-08-17,Joker,Property destruction,False,False,False,822000,4
+GCPD-0023,2022-08-17,Joker,Robbery,False,False,False,31000,1
+GCPD-0023,2022-08-17,Joker,Assault,False,False,False,52000,4
+GCPD-0023,2022-08-17,Harley Quinn,Robbery,False,False,False,93000,0
+GCPD-0023,2022-08-17,Harley Quinn,Assault,False,False,False,36000,6
+GCPD-0024,2022-08-20,Mr. Freeze,Robbery,True,False,True,72000,0
+GCPD-0024,2022-08-20,Mr. Freeze,Assault,True,False,True,13000,2
+GCPD-0024,2022-08-20,Mr. Freeze,Property destruction,True,False,True,476000,2
+GCPD-0025,2022-09-06,Penguin,Robbery,False,False,False,76000,1
+GCPD-0026,2022-09-14,Joker,Property destruction,True,False,True,637000,2
+GCPD-0026,2022-09-14,Joker,Murder,True,False,True,3000,3
+GCPD-0026,2022-09-14,Joker,Robbery,True,False,True,18000,1
+GCPD-0026,2022-09-14,Harley Quinn,Property destruction,True,False,True,458000,2
+GCPD-0027,2022-09-16,Penguin,Robbery,False,False,False,45000,1
+GCPD-0028,2022-09-23,Penguin,Robbery,False,False,False,34000,0
+GCPD-0029,2022-10-10,Penguin,Robbery,False,False,False,58000,1
+GCPD-0029,2022-10-10,Penguin,Fraud,False,False,False,5000,0
+GCPD-0029,2022-10-10,Penguin,Assault,False,False,False,38000,1
+GCPD-0030,2022-10-26,Two-Face,Robbery,False,False,False,46000,2
+GCPD-0031,2022-10-30,Two-Face,Kidnapping,True,True,False,10000,1
+GCPD-0032,2022-10-30,Catwoman,Robbery,False,False,False,7000,0
+GCPD-0032,2022-10-30,Catwoman,Robbery,False,False,False,3000,0
+GCPD-0033,2022-12-22,Penguin,Robbery,False,False,False,28000,1
+GCPD-0034,2023-01-07,Penguin,Robbery,False,False,False,48000,1
+GCPD-0035,2023-01-26,Penguin,Cybercrime,False,False,False,33000,0
+GCPD-0035,2023-01-26,Penguin,Robbery,False,False,False,58000,0
+GCPD-0036,2023-02-08,Catwoman,Robbery,False,False,False,46000,1
+GCPD-0036,2023-02-08,Catwoman,Robbery,False,False,False,5000,1
+GCPD-0037,2023-02-26,Catwoman,Robbery,False,False,False,11000,1
+GCPD-0037,2023-02-26,Catwoman,Robbery,False,False,False,0,1
+GCPD-0038,2023-03-28,Joker,Murder,False,False,False,21000,2
+GCPD-0038,2023-03-28,Joker,Assault,False,False,False,41000,3
+GCPD-0038,2023-03-28,Joker,Property destruction,False,False,False,712000,3
+GCPD-0038,2023-03-28,Joker,Theft,False,False,False,3000,0
+GCPD-0038,2023-03-28,Harley Quinn,Property destruction,False,False,False,624000,3
+GCPD-0038,2023-03-28,Harley Quinn,Robbery,False,False,False,75000,1
+GCPD-0039,2023-03-30,Joker,Property destruction,False,False,False,316000,3
+GCPD-0039,2023-03-30,Joker,Robbery,False,False,False,73000,2
+GCPD-0039,2023-03-30,Joker,Assault,False,False,False,4000,6
+GCPD-0039,2023-03-30,Joker,Kidnapping,False,False,False,4000,5
+GCPD-0039,2023-03-30,Harley Quinn,Murder,False,False,False,10000,3
+GCPD-0040,2023-04-09,Joker,Property destruction,False,False,False,691000,1
+GCPD-0040,2023-04-09,Joker,Theft,False,False,False,2000,0
+GCPD-0040,2023-04-09,Joker,Robbery,False,False,False,40000,1
+GCPD-0040,2023-04-09,Joker,Murder,False,False,False,5000,3
+GCPD-0040,2023-04-09,Harley Quinn,Robbery,False,False,False,2000,2
+GCPD-0041,2023-04-12,Penguin,Robbery,False,False,False,92000,1
+GCPD-0041,2023-04-12,Penguin,Assault,False,False,False,40000,1
+GCPD-0042,2023-04-20,Riddler,Kidnapping,True,False,True,32000,1
+GCPD-0042,2023-04-20,Riddler,Cybercrime,True,False,True,67000,0
+GCPD-0043,2023-05-06,Catwoman,Robbery,False,False,False,25000,0
+GCPD-0043,2023-05-06,Catwoman,Robbery,False,False,False,14000,1
+GCPD-0044,2023-05-11,Joker,Assault,False,False,False,45000,4
+GCPD-0044,2023-05-11,Joker,Property destruction,False,False,False,407000,4
+GCPD-0044,2023-05-11,Joker,Theft,False,False,False,2000,0
+GCPD-0044,2023-05-11,Harley Quinn,Robbery,False,False,False,9000,0
+GCPD-0044,2023-05-11,Harley Quinn,Assault,False,False,False,10000,7
+GCPD-0045,2023-05-18,Penguin,Fraud,False,False,False,4000,0
+GCPD-0045,2023-05-18,Penguin,Robbery,False,False,False,78000,0
+GCPD-0045,2023-05-18,Penguin,Theft,False,False,False,29000,0
+GCPD-0046,2023-05-19,Harley Quinn,Kidnapping,True,False,True,63000,2
+GCPD-0046,2023-05-19,Harley Quinn,Robbery,True,False,True,71000,2
+GCPD-0047,2023-06-15,Catwoman,Robbery,False,False,False,46000,1
+GCPD-0047,2023-06-15,Catwoman,Robbery,False,False,False,28000,0
+GCPD-0048,2023-06-17,Penguin,Assault,False,False,False,17000,1
+GCPD-0049,2023-06-20,Two-Face,Property destruction,False,False,False,466000,1
+GCPD-0050,2023-06-29,Joker,Property destruction,False,False,False,834000,0
+GCPD-0051,2023-06-29,Joker,Theft,False,False,False,31000,0
+GCPD-0052,2023-07-07,Two-Face,Assault,False,False,False,30000,1
+GCPD-0052,2023-07-07,Two-Face,Robbery,False,False,False,78000,0
+GCPD-0052,2023-07-07,Two-Face,Murder,False,False,False,19000,2
+GCPD-0052,2023-07-07,Two-Face,Kidnapping,False,False,False,52000,0
+GCPD-0053,2023-07-08,Joker,Property destruction,False,False,False,534000,1
+GCPD-0053,2023-07-08,Joker,Murder,False,False,False,9000,2
+GCPD-0054,2023-07-29,Joker,Property destruction,False,False,False,115000,4
+GCPD-0054,2023-07-29,Joker,Murder,False,False,False,7000,5
+GCPD-0054,2023-07-29,Joker,Kidnapping,False,False,False,29000,0
+GCPD-0054,2023-07-29,Joker,Robbery,False,False,False,8000,0
+GCPD-0054,2023-07-29,Joker,Assault,False,False,False,7000,8
+GCPD-0054,2023-07-29,Harley Quinn,Assault,False,False,False,46000,6
+GCPD-0055,2023-08-02,Catwoman,Robbery,False,False,False,12000,1
+GCPD-0056,2023-08-07,Joker,Assault,False,False,False,43000,4
+GCPD-0056,2023-08-07,Joker,Robbery,False,False,False,5000,1
+GCPD-0056,2023-08-07,Joker,Murder,False,False,False,2000,2
+GCPD-0056,2023-08-07,Joker,Kidnapping,False,False,False,4000,4
+GCPD-0056,2023-08-07,Harley Quinn,Kidnapping,False,False,False,60000,1
+GCPD-0057,2023-08-12,Batman,Property destruction,False,False,False,27000,0
+GCPD-0058,2023-08-18,Penguin,Theft,False,False,False,35000,0
+GCPD-0058,2023-08-18,Penguin,Robbery,False,False,False,62000,0
+GCPD-0059,2023-09-08,Joker,Property destruction,False,False,False,656000,3
+GCPD-0059,2023-09-08,Joker,Robbery,False,False,False,70000,0
+GCPD-0059,2023-09-08,Joker,Murder,False,False,False,10000,3
+GCPD-0059,2023-09-08,Joker,Assault,False,False,False,49000,4
+GCPD-0059,2023-09-08,Harley Quinn,Assault,False,False,False,18000,5
+GCPD-0060,2023-09-08,Joker,Robbery,False,False,False,9000,0
+GCPD-0060,2023-09-08,Joker,Kidnapping,False,False,False,38000,0
+GCPD-0060,2023-09-08,Joker,Assault,False,False,False,1000,2
+GCPD-0060,2023-09-08,Harley Quinn,Murder,False,False,False,3000,2
+GCPD-0061,2023-09-24,Catwoman,Robbery,False,False,False,4000,1
+GCPD-0062,2023-10-01,Joker,Property destruction,False,False,False,507000,4
+GCPD-0062,2023-10-01,Joker,Robbery,False,False,False,43000,1
+GCPD-0062,2023-10-01,Harley Quinn,Property destruction,False,False,False,113000,3
+GCPD-0063,2023-10-03,Two-Face,Robbery,False,False,False,56000,2
+GCPD-0063,2023-10-03,Two-Face,Murder,False,False,False,6000,3
+GCPD-0063,2023-10-03,Two-Face,Kidnapping,False,False,False,17000,1
+GCPD-0064,2023-10-05,Joker,Robbery,False,False,False,62000,2
+GCPD-0064,2023-10-05,Joker,Theft,False,False,False,11000,0
+GCPD-0064,2023-10-05,Joker,Murder,False,False,False,20000,4
+GCPD-0064,2023-10-05,Harley Quinn,Assault,False,False,False,53000,4
+GCPD-0064,2023-10-05,Harley Quinn,Kidnapping,False,False,False,51000,1
+GCPD-0065,2023-10-06,Penguin,Fraud,False,False,False,14000,0
+GCPD-0066,2023-11-01,Bane,Kidnapping,False,False,False,16000,0
+GCPD-0066,2023-11-01,Bane,Assault,False,False,False,42000,5
+GCPD-0066,2023-11-01,Poison Ivy,Assault,False,False,False,22000,2
+GCPD-0067,2023-11-02,Joker,Robbery,False,False,False,51000,2
+GCPD-0067,2023-11-02,Joker,Property destruction,False,False,False,628000,1
+GCPD-0067,2023-11-02,Joker,Murder,False,False,False,11000,3
+GCPD-0068,2023-11-05,Joker,Robbery,False,False,False,84000,2
+GCPD-0068,2023-11-05,Joker,Property destruction,False,False,False,244000,4
+GCPD-0068,2023-11-05,Joker,Kidnapping,False,False,False,0,1
+GCPD-0068,2023-11-05,Joker,Assault,False,False,False,38000,6
+GCPD-0068,2023-11-05,Harley Quinn,Property destruction,False,False,False,114000,2
+GCPD-0069,2023-11-09,Bane,Property destruction,False,False,False,467000,2
+GCPD-0069,2023-11-09,Bane,Robbery,False,False,False,79000,2
+GCPD-0070,2023-11-15,Bane,Property destruction,False,False,False,107000,3
+GCPD-0070,2023-11-15,Poison Ivy,Assault,False,False,False,11000,1
+GCPD-0071,2023-11-16,Poison Ivy,Assault,False,False,False,34000,1
+GCPD-0072,2023-11-25,Bane,Robbery,False,False,False,78000,0
+GCPD-0072,2023-11-25,Poison Ivy,Property destruction,False,False,False,97000,0
+GCPD-0073,2023-12-02,Bane,Kidnapping,False,False,False,58000,0
+GCPD-0073,2023-12-02,Poison Ivy,Assault,False,False,False,27000,3
+GCPD-0074,2023-12-02,Joker,Property destruction,False,False,False,552000,1
+GCPD-0074,2023-12-02,Joker,Assault,False,False,False,48000,4
+GCPD-0074,2023-12-02,Joker,Robbery,False,False,False,26000,2
+GCPD-0074,2023-12-02,Joker,Murder,False,False,False,18000,4
+GCPD-0074,2023-12-02,Harley Quinn,Property destruction,False,False,False,649000,5
+GCPD-0075,2023-12-05,Bane,Robbery,False,False,False,46000,0
+GCPD-0076,2023-12-31,Joker,Murder,True,False,True,13000,3
+GCPD-0076,2023-12-31,Joker,Kidnapping,True,False,True,51000,3
+GCPD-0076,2023-12-31,Harley Quinn,Property destruction,True,False,True,774000,1
+GCPD-0077,2024-01-17,Batman,Robbery,False,False,False,16000,0
+GCPD-0077,2024-01-17,Batman,Kidnapping,False,False,False,7000,0
+GCPD-0077,2024-01-17,Batman,Theft,False,False,False,15000,0
+GCPD-0078,2024-03-02,Batman,Robbery,False,False,False,24000,0
+GCPD-0079,2024-03-02,Batman,Property destruction,False,False,False,59000,1
+GCPD-0079,2024-03-02,Batman,Robbery,False,False,False,35000,0
+GCPD-0079,2024-03-02,Batman,Murder,False,False,False,7000,1
+GCPD-0080,2024-03-04,Batman,Property destruction,False,False,False,15000,0
+GCPD-0080,2024-03-04,Batman,Assault,False,False,False,14000,0
+GCPD-0081,2024-03-28,Batman,Assault,False,False,False,14000,1
+GCPD-0081,2024-03-28,Batman,Property destruction,False,False,False,80000,1
+GCPD-0082,2024-04-10,Batman,Assault,False,False,False,3000,1
+GCPD-0082,2024-04-10,Batman,Kidnapping,False,False,False,48000,0
+GCPD-0083,2024-04-10,Batman,Robbery,False,False,False,6000,0
+GCPD-0083,2024-04-10,Batman,Theft,False,False,False,26000,1
+GCPD-0084,2024-04-11,Batman,Property destruction,False,False,False,22000,0
+GCPD-0084,2024-04-11,Batman,Theft,False,False,False,4000,0
+GCPD-0085,2024-04-19,Batman,Property destruction,False,False,False,41000,0
+GCPD-0085,2024-04-19,Batman,Robbery,False,False,False,10000,0
+GCPD-0086,2024-04-20,Batman,Assault,False,False,False,18000,1
+GCPD-0086,2024-04-20,Batman,Property destruction,False,False,False,39000,0
+GCPD-0087,2024-04-22,Batman,Property destruction,False,False,False,79000,0
+GCPD-0087,2024-04-22,Batman,Assault,False,False,False,15000,2
+GCPD-0088,2024-05-11,Batman,Property destruction,False,False,False,31000,0
+GCPD-0088,2024-05-11,Batman,Assault,False,False,False,0,1
+GCPD-0089,2024-05-11,Batman,Robbery,False,False,False,46000,0
+GCPD-0089,2024-05-11,Batman,Property destruction,False,False,False,22000,0
+GCPD-0089,2024-05-11,Batman,Assault,False,False,False,11000,1
+GCPD-0090,2024-05-19,Batman,Assault,False,False,False,5000,3
+GCPD-0091,2024-06-06,Batman,Assault,False,False,False,3000,0
+GCPD-0092,2024-06-09,Batman,Assault,False,False,False,21000,1
+GCPD-0092,2024-06-09,Batman,Kidnapping,False,False,False,32000,0
+GCPD-0093,2024-06-10,Batman,Assault,False,False,False,25000,1
+GCPD-0094,2024-07-08,Bane,Kidnapping,False,False,False,63000,1
+GCPD-0094,2024-07-08,Poison Ivy,Kidnapping,False,False,False,0,1
+GCPD-0095,2024-07-09,Bane,Property destruction,False,False,False,217000,4
+GCPD-0095,2024-07-09,Poison Ivy,Assault,False,False,False,51000,1
+GCPD-0095,2024-07-09,Poison Ivy,Murder,False,False,False,5000,3
+GCPD-0096,2024-07-14,Joker,Assault,False,False,False,40000,2
+GCPD-0096,2024-07-14,Joker,Kidnapping,False,False,False,17000,5
+GCPD-0096,2024-07-14,Harley Quinn,Assault,False,False,False,44000,3
+GCPD-0097,2024-07-21,Bane,Assault,False,False,False,55000,6
+GCPD-0097,2024-07-21,Bane,Property destruction,False,False,False,400000,4
+GCPD-0097,2024-07-21,Poison Ivy,Kidnapping,False,False,False,3000,0
+GCPD-0097,2024-07-21,Poison Ivy,Property destruction,False,False,False,240000,2
+GCPD-0097,2024-07-21,Poison Ivy,Murder,False,False,False,17000,1
+GCPD-0097,2024-07-21,Poison Ivy,Robbery,False,False,False,23000,2
+GCPD-0098,2024-07-22,Joker,Robbery,False,False,False,77000,1
+GCPD-0098,2024-07-22,Joker,Property destruction,False,False,False,524000,4
+GCPD-0098,2024-07-22,Joker,Assault,False,False,False,9000,8
+GCPD-0098,2024-07-22,Joker,Kidnapping,False,False,False,56000,1
+GCPD-0098,2024-07-22,Harley Quinn,Robbery,False,False,False,1000,1
+GCPD-0099,2024-07-24,Bane,Murder,False,False,False,19000,2
+GCPD-0099,2024-07-24,Bane,Property destruction,False,False,False,634000,3
+GCPD-0099,2024-07-24,Poison Ivy,Assault,False,False,False,19000,3
+GCPD-0099,2024-07-24,Poison Ivy,Property destruction,False,False,False,187000,1
+GCPD-0100,2024-08-02,Bane,Property destruction,False,False,False,118000,1
+GCPD-0101,2024-08-05,Bane,Assault,False,False,False,48000,3
+GCPD-0101,2024-08-05,Bane,Property destruction,False,False,False,445000,1
+GCPD-0102,2024-08-09,Bane,Kidnapping,False,False,False,67000,1
+GCPD-0102,2024-08-09,Poison Ivy,Assault,False,False,False,47000,1
+GCPD-0103,2024-08-14,Bane,Property destruction,False,False,False,534000,3
+GCPD-0103,2024-08-14,Bane,Assault,False,False,False,19000,4
+GCPD-0103,2024-08-14,Poison Ivy,Assault,False,False,False,21000,4
+GCPD-0103,2024-08-14,Poison Ivy,Property destruction,False,False,False,634000,2
+GCPD-0104,2024-08-16,Catwoman,Robbery,False,False,False,25000,1
+GCPD-0105,2024-08-17,Two-Face,Murder,False,False,False,16000,1
+GCPD-0106,2024-08-21,Penguin,Fraud,False,False,False,10000,0
+GCPD-0106,2024-08-21,Penguin,Robbery,False,False,False,27000,1
+GCPD-0107,2024-08-28,Bane,Property destruction,True,True,False,572000,1
+GCPD-0108,2024-09-18,Penguin,Fraud,False,False,False,6000,0
+GCPD-0108,2024-09-18,Penguin,Robbery,False,False,False,57000,1
+GCPD-0108,2024-09-18,Penguin,Theft,False,False,False,19000,0
+GCPD-0109,2024-09-27,Joker,Fraud,False,False,False,13000,0
+GCPD-0109,2024-09-27,Joker,Robbery,False,False,False,90000,2
+GCPD-0109,2024-09-27,Joker,Assault,False,False,False,23000,4
+GCPD-0109,2024-09-27,Joker,Property destruction,False,False,False,565000,3
+GCPD-0109,2024-09-27,Harley Quinn,Kidnapping,False,False,False,36000,1
+GCPD-0109,2024-09-27,Harley Quinn,Murder,False,False,False,14000,2
+GCPD-0110,2024-10-01,Two-Face,Assault,False,False,False,7000,5
+GCPD-0110,2024-10-01,Two-Face,Robbery,False,False,False,35000,0
+GCPD-0110,2024-10-01,Two-Face,Murder,False,False,False,7000,3
+GCPD-0111,2024-10-04,Two-Face,Murder,False,False,False,13000,3
+GCPD-0111,2024-10-04,Two-Face,Robbery,False,False,False,58000,0
+GCPD-0112,2024-10-06,Joker,Murder,False,False,False,18000,2
+GCPD-0112,2024-10-06,Joker,Assault,False,False,False,21000,3
+GCPD-0112,2024-10-06,Joker,Kidnapping,False,False,False,42000,2
+GCPD-0112,2024-10-06,Joker,Property destruction,False,False,False,570000,5
+GCPD-0112,2024-10-06,Joker,Robbery,False,False,False,92000,2
+GCPD-0112,2024-10-06,Harley Quinn,Murder,False,False,False,20000,3
+GCPD-0112,2024-10-06,Harley Quinn,Kidnapping,False,False,False,61000,0
+GCPD-0113,2024-10-17,Two-Face,Assault,False,False,False,33000,2
+GCPD-0114,2024-10-21,Joker,Property destruction,False,False,False,383000,3
+GCPD-0114,2024-10-21,Joker,Assault,False,False,False,8000,2
+GCPD-0115,2024-10-25,Penguin,Robbery,False,False,False,61000,0
+GCPD-0116,2024-10-31,Joker,Assault,False,False,False,47000,3
+GCPD-0116,2024-10-31,Joker,Kidnapping,False,False,False,54000,2
+GCPD-0116,2024-10-31,Joker,Murder,False,False,False,16000,2
+GCPD-0117,2024-11-12,Joker,Robbery,False,False,False,13000,0
+GCPD-0117,2024-11-12,Joker,Assault,False,False,False,6000,3
+GCPD-0117,2024-11-12,Harley Quinn,Property destruction,False,False,False,435000,0
+GCPD-0118,2024-11-21,Joker,Property destruction,False,False,False,137000,2
+GCPD-0118,2024-11-21,Joker,Murder,False,False,False,6000,6
+GCPD-0119,2024-11-26,Poison Ivy,Property destruction,False,False,False,790000,1
+GCPD-0119,2024-11-26,Poison Ivy,Assault,False,False,False,27000,3
+GCPD-0120,2024-12-16,Poison Ivy,Property destruction,False,False,False,248000,2
+GCPD-0120,2024-12-16,Poison Ivy,Murder,False,False,False,6000,2
+GCPD-0121,2025-01-11,Penguin,Robbery,False,False,False,22000,0
+GCPD-0121,2025-01-11,Penguin,Assault,False,False,False,55000,1
+GCPD-0122,2025-01-16,Catwoman,Robbery,False,False,False,14000,0
+GCPD-0123,2025-02-08,Joker,Property destruction,False,False,False,395000,4
+GCPD-0123,2025-02-08,Joker,Assault,False,False,False,37000,5
+GCPD-0123,2025-02-08,Joker,Murder,False,False,False,22000,3
+GCPD-0123,2025-02-08,Harley Quinn,Assault,False,False,False,24000,7
+GCPD-0123,2025-02-08,Harley Quinn,Property destruction,False,False,False,674000,3
+GCPD-0124,2025-02-20,Batman,Assault,False,False,False,3500,3
+GCPD-0125,2025-02-23,Joker,Property destruction,False,False,False,217000,4
+GCPD-0125,2025-02-23,Joker,Assault,False,False,False,27000,6
+GCPD-0125,2025-02-23,Harley Quinn,Assault,False,False,False,46000,4
+GCPD-0126,2025-03-07,Poison Ivy,Property destruction,False,False,False,80000,0
+GCPD-0127,2025-03-09,Harley Quinn,Robbery,False,False,False,81000,0
+GCPD-0127,2025-03-09,Harley Quinn,Kidnapping,False,False,False,11000,1
+GCPD-0128,2025-03-14,Poison Ivy,Assault,False,False,False,40000,5
+GCPD-0128,2025-03-14,Poison Ivy,Murder,False,False,False,13000,2
+GCPD-0129,2025-03-17,Joker,Robbery,False,False,False,11000,1
+GCPD-0129,2025-03-17,Joker,Kidnapping,False,False,False,44000,3
+GCPD-0129,2025-03-17,Harley Quinn,Kidnapping,False,False,False,5000,1
+GCPD-0130,2025-04-06,Joker,Property destruction,False,False,False,459000,0
+GCPD-0130,2025-04-06,Joker,Robbery,False,False,False,38000,0
+GCPD-0130,2025-04-06,Harley Quinn,Murder,False,False,False,5000,1
+GCPD-0131,2025-04-09,Poison Ivy,Kidnapping,False,False,False,37000,1
+GCPD-0132,2025-04-30,Joker,Assault,False,False,False,49000,5
+GCPD-0132,2025-04-30,Joker,Property destruction,False,False,False,325000,0
+GCPD-0132,2025-04-30,Joker,Murder,False,False,False,10000,6
+GCPD-0132,2025-04-30,Joker,Fraud,False,False,False,5000,0
+GCPD-0132,2025-04-30,Joker,Robbery,False,False,False,84000,1
+GCPD-0132,2025-04-30,Harley Quinn,Robbery,False,False,False,53000,0
+GCPD-0133,2025-05-01,Two-Face,Murder,False,False,False,14000,2
+GCPD-0133,2025-05-01,Two-Face,Robbery,False,False,False,34000,1
+GCPD-0134,2025-05-14,Joker,Assault,False,False,False,0,2
+GCPD-0134,2025-05-14,Joker,Property destruction,False,False,False,86000,2
+GCPD-0134,2025-05-14,Joker,Robbery,False,False,False,78000,2
+GCPD-0135,2025-05-24,Catwoman,Robbery,False,False,False,2000,0
+GCPD-0136,2025-05-26,Joker,Murder,False,False,False,0,6
+GCPD-0136,2025-05-26,Joker,Robbery,False,False,False,52000,2
+GCPD-0136,2025-05-26,Joker,Property destruction,False,False,False,162000,4
+GCPD-0136,2025-05-26,Harley Quinn,Assault,False,False,False,19000,4
+GCPD-0137,2025-05-26,Catwoman,Robbery,False,False,False,23000,1
+GCPD-0137,2025-05-26,Catwoman,Robbery,False,False,False,41000,1
+GCPD-0138,2025-06-23,Penguin,Robbery,False,False,False,70000,0
+GCPD-0138,2025-06-23,Penguin,Fraud,False,False,False,5000,0
+GCPD-0138,2025-06-23,Penguin,Theft,False,False,False,6000,0
+GCPD-0139,2025-06-24,Harley Quinn,Assault,False,False,False,3000,2
+GCPD-0139,2025-06-24,Harley Quinn,Kidnapping,False,False,False,19000,2
+GCPD-0140,2025-06-30,Two-Face,Assault,True,True,False,50000,3
+GCPD-0140,2025-06-30,Two-Face,Kidnapping,True,True,False,28000,1
+GCPD-0141,2025-07-09,Joker,Assault,False,False,False,20000,3
+GCPD-0141,2025-07-09,Joker,Kidnapping,False,False,False,49000,2
+GCPD-0141,2025-07-09,Joker,Murder,False,False,False,16000,3
+GCPD-0141,2025-07-09,Joker,Property destruction,False,False,False,725000,5
+GCPD-0141,2025-07-09,Joker,Cybercrime,False,False,False,57000,0
+GCPD-0141,2025-07-09,Harley Quinn,Assault,False,False,False,19000,2
+GCPD-0142,2025-07-12,Joker,Property destruction,False,False,False,563000,4
+GCPD-0142,2025-07-12,Joker,Fraud,False,False,False,10000,0
+GCPD-0142,2025-07-12,Joker,Kidnapping,False,False,False,25000,3
+GCPD-0142,2025-07-12,Harley Quinn,Murder,False,False,False,5000,2
+GCPD-0143,2025-07-16,Joker,Murder,False,False,False,9000,4
+GCPD-0143,2025-07-16,Joker,Robbery,False,False,False,73000,2
+GCPD-0143,2025-07-16,Joker,Assault,False,False,False,41000,5
+GCPD-0143,2025-07-16,Joker,Property destruction,False,False,False,825000,5
+GCPD-0143,2025-07-16,Harley Quinn,Property destruction,False,False,False,621000,5
+GCPD-0144,2025-07-28,Catwoman,Robbery,False,False,False,47000,1
+GCPD-0145,2025-08-29,Joker,Robbery,False,False,False,3000,0
+GCPD-0145,2025-08-29,Joker,Murder,False,False,False,2000,4
+GCPD-0145,2025-08-29,Joker,Property destruction,False,False,False,840000,3
+GCPD-0145,2025-08-29,Harley Quinn,Murder,False,False,False,3000,1
+GCPD-0145,2025-08-29,Harley Quinn,Assault,False,False,False,52000,5
+GCPD-0146,2025-08-31,Joker,Property destruction,True,False,True,474000,5
+GCPD-0146,2025-08-31,Joker,Kidnapping,True,False,True,39000,3
+GCPD-0146,2025-08-31,Joker,Assault,True,False,True,14000,4
+GCPD-0146,2025-08-31,Joker,Murder,True,False,True,11000,6
+GCPD-0146,2025-08-31,Joker,Robbery,True,False,True,79000,1
+GCPD-0146,2025-08-31,Harley Quinn,Property destruction,True,False,True,424000,5
+GCPD-0146,2025-08-31,Harley Quinn,Robbery,True,False,True,15000,0
+GCPD-0147,2025-09-15,Catwoman,Robbery,False,False,False,40000,1
+GCPD-0147,2025-09-15,Catwoman,Robbery,False,False,False,34000,0
+GCPD-0148,2025-09-20,Penguin,Fraud,False,False,False,0,0
+GCPD-0149,2025-10-25,Catwoman,Robbery,False,False,False,24000,0
+GCPD-0150,2025-11-20,Joker,Murder,False,False,False,22000,3
+GCPD-0150,2025-11-20,Joker,Robbery,False,False,False,22000,0
+GCPD-0150,2025-11-20,Joker,Assault,False,False,False,8000,4
+GCPD-0150,2025-11-20,Joker,Property destruction,False,False,False,592000,1
+GCPD-0150,2025-11-20,Joker,Theft,False,False,False,15000,0
+GCPD-0150,2025-11-20,Harley Quinn,Assault,False,False,False,6000,7
+GCPD-0150,2025-11-20,Harley Quinn,Property destruction,False,False,False,814000,1
+GCPD-0151,2025-11-24,Harley Quinn,Assault,False,False,False,24000,6
+GCPD-0151,2025-11-24,Harley Quinn,Robbery,False,False,False,52000,0
+GCPD-0151,2025-11-24,Harley Quinn,Property destruction,False,False,False,764000,4
+GCPD-0152,2025-12-16,Batman,Murder,False,False,False,12000,1
+GCPD-0153,2025-12-16,Joker,Robbery,False,False,False,74000,0
+GCPD-0154,2025-12-22,Joker,Property destruction,False,False,False,227000,0
+GCPD-0154,2025-12-22,Joker,Assault,False,False,False,41000,4
+GCPD-0154,2025-12-22,Joker,Kidnapping,False,False,False,31000,0
+GCPD-0154,2025-12-22,Harley Quinn,Property destruction,False,False,False,104000,1
+GCPD-0155,2026-02-10,Poison Ivy,Property destruction,False,False,False,415000,1
+GCPD-0155,2026-02-10,Poison Ivy,Kidnapping,False,False,False,69000,0
+GCPD-0156,2026-02-13,Poison Ivy,Kidnapping,False,False,False,14000,0
+GCPD-0156,2026-02-13,Poison Ivy,Property destruction,False,False,False,686000,0
+GCPD-0157,2026-02-18,Joker,Assault,False,False,False,38000,6
+GCPD-0157,2026-02-18,Joker,Murder,False,False,False,3000,2
+GCPD-0158,2026-03-09,Joker,Property destruction,False,False,False,153000,4
+GCPD-0158,2026-03-09,Joker,Assault,False,False,False,53000,3
+GCPD-0158,2026-03-09,Joker,Robbery,False,False,False,91000,1
+GCPD-0158,2026-03-09,Harley Quinn,Kidnapping,False,False,False,2000,0
+GCPD-0158,2026-03-09,Harley Quinn,Property destruction,False,False,False,760000,0
+GCPD-0159,2026-03-11,Joker,Assault,False,False,False,49000,3
+GCPD-0159,2026-03-11,Joker,Property destruction,False,False,False,330000,5
+GCPD-0159,2026-03-11,Joker,Kidnapping,False,False,False,60000,4
+GCPD-0159,2026-03-11,Joker,Cybercrime,False,False,False,22000,0
+GCPD-0159,2026-03-11,Harley Quinn,Robbery,False,False,False,14000,1
+GCPD-0160,2026-03-22,Joker,Property destruction,False,False,False,756000,6
+GCPD-0160,2026-03-22,Joker,Robbery,False,False,False,26000,2
+GCPD-0160,2026-03-22,Joker,Assault,False,False,False,10000,4
+GCPD-0160,2026-03-22,Harley Quinn,Murder,False,False,False,22000,3
+GCPD-0160,2026-03-22,Harley Quinn,Fraud,False,False,False,8000,0
+GCPD-0161,2026-03-23,Catwoman,Robbery,False,False,False,35000,1
+GCPD-0162,2026-03-26,Penguin,Fraud,False,False,False,7000,0
+GCPD-0162,2026-03-26,Penguin,Robbery,False,False,False,45000,1
+GCPD-0163,2026-03-30,Joker,Murder,False,False,False,9000,2
+GCPD-0163,2026-03-30,Joker,Assault,False,False,False,1000,5
+GCPD-0163,2026-03-30,Harley Quinn,Assault,False,False,False,29000,3
+GCPD-0164,2026-03-30,Joker,Assault,False,False,False,13000,5
+GCPD-0164,2026-03-30,Joker,Robbery,False,False,False,15000,2
+GCPD-0164,2026-03-30,Joker,Murder,False,False,False,5000,6
+GCPD-0164,2026-03-30,Joker,Property destruction,False,False,False,425000,2
+GCPD-0164,2026-03-30,Joker,Kidnapping,False,False,False,13000,2
+GCPD-0164,2026-03-30,Harley Quinn,Kidnapping,False,False,False,57000,0
+GCPD-0165,2026-04-03,Poison Ivy,Property destruction,False,False,False,570000,1
+GCPD-0166,2026-04-09,Batman,Property destruction,False,False,False,22000,1
+GCPD-0167,2026-04-17,Poison Ivy,Property destruction,False,False,False,338000,1
+GCPD-0168,2026-05-24,Two-Face,Assault,False,False,False,53000,2
+GCPD-0168,2026-05-24,Two-Face,Property destruction,False,False,False,791000,1
+GCPD-0169,2026-06-01,Catwoman,Robbery,False,False,False,47000,0
+GCPD-0170,2026-06-09,Joker,Theft,False,False,False,28000,0
+GCPD-0170,2026-06-09,Joker,Kidnapping,False,False,False,52000,0
+GCPD-0170,2026-06-09,Joker,Robbery,False,False,False,64000,1
+GCPD-0170,2026-06-09,Joker,Fraud,False,False,False,13000,0
+GCPD-0170,2026-06-09,Joker,Assault,False,False,False,54000,3
+GCPD-0170,2026-06-09,Harley Quinn,Assault,False,False,False,34000,6
+GCPD-0171,2026-06-09,Joker,Property destruction,False,False,False,594000,5
+GCPD-0171,2026-06-09,Joker,Kidnapping,False,False,False,33000,2
+GCPD-0171,2026-06-09,Joker,Assault,False,False,False,23000,3
+GCPD-0171,2026-06-09,Harley Quinn,Assault,False,False,False,43000,4
+GCPD-0172,2026-06-21,Joker,Property destruction,False,False,False,848000,4
+GCPD-0172,2026-06-21,Joker,Kidnapping,False,False,False,42000,3
+GCPD-0172,2026-06-21,Joker,Assault,False,False,False,16000,7
+GCPD-0172,2026-06-21,Harley Quinn,Property destruction,False,False,False,612000,2
+GCPD-0173,2026-07-10,Joker,Kidnapping,False,False,False,3000,3
+GCPD-0173,2026-07-10,Joker,Robbery,False,False,False,61000,1
+GCPD-0173,2026-07-10,Joker,Assault,False,False,False,49000,6
+GCPD-0173,2026-07-10,Harley Quinn,Property destruction,False,False,False,498000,2
+GCPD-0174,2026-08-02,Joker,Assault,False,False,False,34000,6
+GCPD-0174,2026-08-02,Joker,Property destruction,False,False,False,645000,2
+GCPD-0174,2026-08-02,Harley Quinn,Assault,False,False,False,13000,6
+GCPD-0175,2026-08-02,Joker,Property destruction,False,False,False,545000,6
+GCPD-0175,2026-08-02,Joker,Robbery,False,False,False,60000,0
+GCPD-0175,2026-08-02,Joker,Assault,False,False,False,2000,3
+GCPD-0175,2026-08-02,Joker,Murder,False,False,False,3000,6
+GCPD-0175,2026-08-02,Harley Quinn,Assault,False,False,False,15000,4
+GCPD-0176,2026-08-10,Catwoman,Robbery,False,False,False,39000,1
+GCPD-0177,2026-08-14,Two-Face,Robbery,False,False,False,54000,0
+GCPD-0178,2026-08-25,Poison Ivy,Property destruction,False,False,False,421000,0
+GCPD-0179,2026-08-29,Joker,Assault,False,False,False,13000,2
+GCPD-0179,2026-08-29,Joker,Murder,False,False,False,18000,1
+GCPD-0179,2026-08-29,Joker,Robbery,False,False,False,59000,1
+GCPD-0179,2026-08-29,Harley Quinn,Assault,False,False,False,18000,1
+GCPD-0180,2026-09-01,Joker,Robbery,False,False,False,75000,1
+GCPD-0180,2026-09-01,Joker,Kidnapping,False,False,False,42000,3
+GCPD-0180,2026-09-01,Joker,Property destruction,False,False,False,152000,2
+GCPD-0181,2026-09-11,Joker,Theft,False,False,False,28000,0
+GCPD-0182,2026-09-13,Joker,Assault,False,False,False,50000,2
+GCPD-0182,2026-09-13,Joker,Property destruction,False,False,False,486000,4
+GCPD-0182,2026-09-13,Joker,Kidnapping,False,False,False,57000,5
+GCPD-0182,2026-09-13,Joker,Murder,False,False,False,4000,5
+GCPD-0182,2026-09-13,Harley Quinn,Property destruction,False,False,False,325000,1
+GCPD-0182,2026-09-13,Harley Quinn,Assault,False,False,False,48000,3
+GCPD-0183,2026-09-16,Catwoman,Theft,False,False,False,9000,0
+GCPD-0183,2026-09-16,Catwoman,Robbery,False,False,False,5000,0
+GCPD-0184,2026-09-24,Penguin,Robbery,False,False,False,6000,1
+GCPD-0185,2026-10-01,Joker,Murder,False,False,False,9000,3
+GCPD-0185,2026-10-01,Joker,Theft,False,False,False,21000,0
+GCPD-0185,2026-10-01,Joker,Assault,False,False,False,49000,7
+GCPD-0185,2026-10-01,Joker,Robbery,False,False,False,32000,2
+GCPD-0185,2026-10-01,Harley Quinn,Robbery,False,False,False,45000,2
+GCPD-0186,2026-10-19,Batman,Property destruction,False,False,False,65000,0
+GCPD-0187,2026-10-26,Joker,Property destruction,False,False,False,192000,3
+GCPD-0187,2026-10-26,Joker,Assault,False,False,False,30000,6
+GCPD-0187,2026-10-26,Harley Quinn,Robbery,False,False,False,92000,0
+GCPD-0188,2026-11-01,Joker,Kidnapping,False,False,False,63000,2
+GCPD-0188,2026-11-01,Joker,Property destruction,False,False,False,717000,5
+GCPD-0188,2026-11-01,Joker,Murder,False,False,False,9000,6
+GCPD-0188,2026-11-01,Harley Quinn,Robbery,False,False,False,60000,1
+GCPD-0188,2026-11-01,Harley Quinn,Assault,False,False,False,47000,4
+GCPD-0189,2026-11-18,Catwoman,Robbery,False,False,False,1000,1
+GCPD-0189,2026-11-18,Catwoman,Robbery,False,False,False,12000,1
+GCPD-0189,2026-11-18,Catwoman,Robbery,False,False,False,9000,0
+GCPD-0190,2026-11-21,Catwoman,Robbery,False,False,False,28000,0
+GCPD-0191,2026-11-30,Joker,Assault,False,False,False,19000,5
+GCPD-0191,2026-11-30,Joker,Robbery,False,False,False,12000,2
+GCPD-0191,2026-11-30,Joker,Property destruction,False,False,False,692000,5
+GCPD-0191,2026-11-30,Harley Quinn,Property destruction,False,False,False,672000,4
+GCPD-0192,2026-12-19,Joker,Property destruction,False,False,False,476000,5
+GCPD-0192,2026-12-19,Joker,Kidnapping,False,False,False,42000,2
+GCPD-0192,2026-12-19,Harley Quinn,Murder,False,False,False,9000,2
+GCPD-0193,2026-12-29,Penguin,Fraud,False,False,False,1000,0
+GCPD-0193,2026-12-29,Penguin,Robbery,False,False,False,52000,1
+GCPD-0193,2026-12-29,Penguin,Cybercrime,False,False,False,49000,0
